@@ -27,7 +27,7 @@ class HomePage extends StatelessWidget {
               children: <Widget>[
                 Expanded(
                   child: Container(
-                    height: 5.0,
+                    height: 2.5,
                     color: Colors.black,
                   ),
                 ),
